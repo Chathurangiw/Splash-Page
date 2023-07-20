@@ -1,4 +1,4 @@
-![Screenshot (1042)](https://github.com/Chathurangiw/Splash-Page/assets/96134411/94997a87-201c-46c0-b1e2-92060b4f9c70)# Splash Page
+
 
 A new Flutter project.
 
