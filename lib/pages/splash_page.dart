@@ -19,7 +19,7 @@ class SplashScreen extends StatelessWidget {
                     width: 100,
                     height: 100,
                     child: Container(
-                      color: const Color.fromARGB(255, 19, 98, 163),
+                      color: const Color.fromARGB(255, 13, 35,123),
                     ),
                   ),
                 ),
